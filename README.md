@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samvictory
-- 👀 I’m interested in IT development and statistics
+- 👀 I’m interested in IT Development,Mathematics and Statistics.
 
 
 <!---
